@@ -29,8 +29,7 @@ public class switchcase {
 			break;
 			
 		default:
-			System.out.println("errouuu");
-			
+			System.out.println("errouuu");			
 		}
 	}
 }
