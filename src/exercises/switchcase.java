@@ -12,16 +12,20 @@ public class switchcase {
 		
 		switch (num) {
 		
-		case 1:
-			System.out.println("1");
+		case 0, 1, 2:
+			System.out.println("vc digitou" + num);
 			break;
 			
-		case 2:
-			System.out.println("2");
+		case 3, 4, 5:
+			System.out.println("vc digitou" + num);
 			break;
 			
-		case 3:
-			System.out.println("3");
+		case 6, 7, 8:
+			System.out.println("vc digitou" + num);
+			break;
+			
+		case 9:
+			System.out.println("vc digitou" + num);
 			break;
 			
 		default:
