@@ -20,7 +20,9 @@ public class switchcase {
 			System.out.println("2");
 			break;
 			
-	
+		case 3:
+			System.out.println("3");
+			break;
 			
 		default:
 			System.out.println("errouuu");
