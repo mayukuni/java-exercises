@@ -14,8 +14,8 @@ public static void main(String args[]) {
 		int j;
 		
 		for (index = 0, j = 10, System.out.println("começouuuu"); index <= num; index += 1, j -= 1, System.out.println("repeteee")) {
-			System.out.println("index" + index);
-			System.out.println("j"+j);
+			System.out.println("index = " + index);
+			System.out.println("j = "+j);
 		}
 	}
 }
