@@ -13,7 +13,7 @@ public static void main(String args[]) {
 		int fatorial = 1;
         
         for (int index = num; index > 0; index--) {
-            fatorial *= index;
+            fatorial = fatorial * index;
             System.out.println("index " + index);
             System.out.println("fatorial " + fatorial);
         }
